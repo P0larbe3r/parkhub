@@ -1,0 +1,14 @@
+header{max-width: 100%;border-bottom: solid ;padding: 2%;margin: 10px;}
+
+footer{max-width: 100%;border: 20px;}
+
+.flexContainer{display: flex;flex-direction: row;max-width: 100%;}
+
+#flexLeft{
+    flex: 25%;
+
+            }
+#flexRight{
+    flex: 75%;
+}
+footer{max-width: 100%;}
