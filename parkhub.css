@@ -12,3 +12,6 @@ footer{max-width: 100%;border: 20px;}
     flex: 75%;
 }
 footer{max-width: 100%;}
+
+#regPlate{background-color: rgb(228, 228, 5);
+width: 50%;height: 20%;font-size: 18px;align-items: center;}
